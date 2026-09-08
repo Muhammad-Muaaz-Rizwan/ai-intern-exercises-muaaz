@@ -1,4 +1,4 @@
-# Day 3 - Reverse Prompt Engineering (Text-to-Image)
+# Day 3 - Text To Image generation
 
 ## Goal
 
