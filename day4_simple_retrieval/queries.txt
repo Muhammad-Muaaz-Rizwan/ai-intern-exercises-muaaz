@@ -1,0 +1,3 @@
+How does a model learn from labeled data?
+What causes a model to perform poorly on new data?
+How are model parameters optimized?

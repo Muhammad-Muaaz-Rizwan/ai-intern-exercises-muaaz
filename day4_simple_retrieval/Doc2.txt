@@ -1,0 +1,1 @@
+Unsupervised learning finds hidden patterns or groupings in data that has no labeled outputs.

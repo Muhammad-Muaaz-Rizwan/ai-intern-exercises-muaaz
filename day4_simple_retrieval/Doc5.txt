@@ -1,0 +1,1 @@
+Gradient descent is an optimization algorithm that iteratively adjusts model parameters to minimize a loss function.

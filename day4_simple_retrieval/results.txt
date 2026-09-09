@@ -1,0 +1,18 @@
+Query: How does a model learn from labeled data?
+
+Retrieved Document: Doc1.txt
+Supervised learning trains a model using labeled data where each input has a known correct output.
+
+---
+Query: What causes a model to perform poorly on new data?
+
+Retrieved Document: Doc4.txt
+Overfitting happens when a machine learning model learns the training data too well, including its noise, and performs poorly on new data.
+
+---
+Query: How are model parameters optimized?
+
+Retrieved Document: Doc5.txt
+Gradient descent is an optimization algorithm that iteratively adjusts model parameters to minimize a loss function.
+
+---

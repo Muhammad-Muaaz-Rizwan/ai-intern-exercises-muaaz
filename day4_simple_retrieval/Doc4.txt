@@ -1,0 +1,1 @@
+Overfitting happens when a machine learning model learns the training data too well, including its noise, and performs poorly on new data.

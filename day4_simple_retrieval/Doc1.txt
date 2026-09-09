@@ -1,0 +1,1 @@
+Supervised learning trains a model using labeled data where each input has a known correct output.
